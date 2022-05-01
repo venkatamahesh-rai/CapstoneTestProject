@@ -1,0 +1,39 @@
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csprojAssemblyReference.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb

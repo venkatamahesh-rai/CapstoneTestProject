@@ -1,0 +1,313 @@
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.AssemblyReference.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.xml
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\E-healthcare.Api.styles.css
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CopyComplete
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\karthik_adiga_a_s\Desktop\e-healthcare.api-main\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csprojAssemblyReference.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CopyComplete
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.xml
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\FDSTraining\FSD_Projects\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.StaticWebAssets.xml
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.AssemblyReference.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CopyComplete
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.StaticWebAssets.xml
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.exe
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.deps.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.runtimeconfig.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.runtimeconfig.dev.json
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-Healthcare.Api.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.csproj.AssemblyReference.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.AssemblyInfoInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.AssemblyInfo.cs
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-Healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.csproj.CopyComplete
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.dll
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.pdb
+C:\Capstone\Dot NET Full Stack Developer Capstone Project\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-Healthcare.Api.genruntimeconfig.cache
